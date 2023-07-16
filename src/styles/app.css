@@ -1,8 +1,0 @@
-@import url('./reset.css');
-@import url('./video-container.css');
-@import url('./media-container.css');
-
-body {
-  font-family: 'Mina', sans-serif;
-  word-break: break-word;
-}
